@@ -2,7 +2,7 @@ James Bentley, jbentley@ucsd.edu
 
 B07, Lindsey Kostas
 
-1) The applications of graph ML on FPGA and ASIC design was the most interesting part. Applying something I know to a new domain.
+1) The applications of graph ML on integrated circuits for different down-stream tasks was the most interesting part. 
 
 2) Finding representative batches of subgraphs for optimal batch processing to reduce training time and compute resources used.
 
